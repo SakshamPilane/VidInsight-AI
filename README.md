@@ -66,7 +66,7 @@ Unlike basic AI summarizers, this project focuses on **deterministic transcript 
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/<your-username>/VidInsight-AI.git
+git clone https://github.com/SakshamPilane/VidInsight-AI.git
 cd VidInsight-AI
 ```
 
