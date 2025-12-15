@@ -128,4 +128,7 @@ Aspiring Backend / Software Developer
 
 ## 📌 License
 
-This project is for educational and interview demonstration purposes.
+This project is licensed under the **MIT License** and is intended for
+educational and interview demonstration purposes.
+
+🔗 [View License](https://github.com/SakshamPilane/VidInsight-AI/blob/main/LICENSE)
